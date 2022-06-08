@@ -1,1 +1,7 @@
-
+Bug_id-1 
+Title:The SAVE DATA button is smaller than the others
+Severity:trivial
+Priority:low
+Environment:Samsung Galaxy S6, Android 10
+AR:The application buttons have one view
+ER:The SAVE DATA button is smaller than the others
